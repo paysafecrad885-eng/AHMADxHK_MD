@@ -1,0 +1,9 @@
+node_modules/
+storage/
+auth_info/
+data/
+.env
+*.log
+npm-debug.log*
+.DS_Store
+sessions/
